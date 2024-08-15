@@ -70,3 +70,7 @@ The ideas and planning demonstrated through this system can be easily upgraded t
 
 This project was developed under the guidance of Prof. Indushree Shetty and in collaboration with Hindustan Traders.
 
+## Code Reference
+
+For a glimpse into the project's foundation, check out the SPS Codework repository. Please note that this repository contains only rudimentary code samples, as the full application is proprietary and under license protection.
+
