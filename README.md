@@ -1,4 +1,4 @@
-king System
+![Objective][https://github.com/Vasant19/Smart-Parking-System/blob/main/Objective.png]
 
 ## Project Overview
 
@@ -70,4 +70,3 @@ The ideas and planning demonstrated through this system can be easily upgraded t
 
 This project was developed under the guidance of Prof. Indushree Shetty and in collaboration with Hindustan Traders.
 
----
