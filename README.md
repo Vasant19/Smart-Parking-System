@@ -1,4 +1,4 @@
-![Objective][https://github.com/Vasant19/Smart-Parking-System/blob/main/Objective.png]
+![Objective](https://github.com/Vasant19/Smart-Parking-System/blob/main/Objective.png)
 
 ## Project Overview
 
